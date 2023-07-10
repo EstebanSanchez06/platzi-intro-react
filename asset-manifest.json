@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EstebanSanchez06/platzi-intro-react.git/static/css/main.1154571b.css",
+    "main.js": "/EstebanSanchez06/platzi-intro-react.git/static/js/main.8db78bcc.js",
+    "index.html": "/EstebanSanchez06/platzi-intro-react.git/index.html",
+    "static/media/delete.svg": "/EstebanSanchez06/platzi-intro-react.git/static/media/delete.253668d653616a4e68d22c69ee5da594.svg",
+    "static/media/check.svg": "/EstebanSanchez06/platzi-intro-react.git/static/media/check.38f596e64d38d54463f988385b633c05.svg",
+    "main.1154571b.css.map": "/EstebanSanchez06/platzi-intro-react.git/static/css/main.1154571b.css.map",
+    "main.8db78bcc.js.map": "/EstebanSanchez06/platzi-intro-react.git/static/js/main.8db78bcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1154571b.css",
+    "static/js/main.8db78bcc.js"
+  ]
+}
